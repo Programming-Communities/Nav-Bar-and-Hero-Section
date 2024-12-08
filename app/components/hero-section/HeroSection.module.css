@@ -1,0 +1,17 @@
+.hero{
+    width: 100%;
+    background-color: var(--background-black);
+    text-align: center;
+    padding: 7.4688rem;
+}
+
+.hero h1{
+    
+    font-size: 1.8987rem;
+    line-height: 3rem;
+}
+
+.hero h1 span{
+    color: var(--logo-color);
+}
+
